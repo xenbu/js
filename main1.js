@@ -402,8 +402,10 @@ function updateTotalScoreCardOne() {
   updateRandomNumbers(providerCardThree);
   updateRandomNumbers(providerCardFour);
 });
+</script>
+<script type='text/javascript'>
 document.addEventListener("DOMContentLoaded", function() {
-   
+   <script type='text/javascript'>
     var link = document.createElement('link');
     link.rel = 'stylesheet';
     link.href = 'https://cdn.jsdelivr.net/gh/xenbu/js@main/style.css'; 
